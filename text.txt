@@ -1,4 +1,0 @@
-Hello World
-I am a text file
-merge ho gaya
-New line
